@@ -1,0 +1,27 @@
+commit 6bb04becef629f31238ba7a8fb69e458251b48c1
+Author: ei1923 <63564432+ei1923@users.noreply.github.com>
+Date:   Fri Apr 28 15:48:36 2023 +0900
+
+    ミノの速度を遅くする
+    
+    400から1000へ変更(止まっている時間)
+
+commit e3a4f8e3d36a37f3ddc931a88d10f66c6cdd1fa8
+Author: ei1923 <63564432+ei1923@users.noreply.github.com>
+Date:   Fri Apr 28 15:44:41 2023 +0900
+
+    indexに日本語で書かれていることを追加
+
+commit b685a544ec637f948cc7baafa8c2753f9fa0973a
+Author: ei1923 <63564432+ei1923@users.noreply.github.com>
+Date:   Fri Apr 28 15:39:54 2023 +0900
+
+    ミノの色変更
+
+commit 6fca35790826f98fa5b0513dfa8cf1035ec8d9da
+Author: ei1923 <63564432+ei1923@users.noreply.github.com>
+Date:   Fri Apr 28 15:23:51 2023 +0900
+
+    ひな形の追加
+    
+    基本を追加
